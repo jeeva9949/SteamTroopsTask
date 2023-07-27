@@ -1,0 +1,48 @@
+.intro_section_head {
+  font-family: Poppins;
+  font-weight: bold;
+  border-left: 5px solid #519259;
+  margin-left: 6rem;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  padding-left: 20px;
+}
+.intro_img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.intro_description {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.intro_description_h5 {
+  font-size: 1.5rem;
+  width: 600px;
+  font-family: Poppins;
+  color: #080808;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+@media screen and (max-width: 600px) {
+  .intro_section_head {
+    margin-left: 2rem;
+    font-size: 1.5rem;
+  }
+  .intro_image_size {
+    width: 370px;
+    height: 350px;
+    margin-bottom: 2rem;
+  }
+  .intro_description_h5 {
+    font-size: 1rem;
+    width: 350px;
+  }
+  .intro_description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
