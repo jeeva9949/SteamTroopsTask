@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/SteamTroopsTask/static/css/main.952b87d4.css",
+    "main.js": "/SteamTroopsTask/static/js/main.6c8bdef0.js",
+    "static/media/banner2.png": "/SteamTroopsTask/static/media/banner2.ada6d7f1aab93d9a27a7.png",
+    "static/media/fa-solid-900.ttf": "/SteamTroopsTask/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/intro_img.png": "/SteamTroopsTask/static/media/intro_img.733bdb15ae8ac0549905.png",
+    "static/media/fa-brands-400.ttf": "/SteamTroopsTask/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/SteamTroopsTask/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/SteamTroopsTask/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/SteamTroopsTask/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/poppins-devanagari-400-italic.woff": "/SteamTroopsTask/static/media/poppins-devanagari-400-italic.08359c079f3cb3015ed5.woff",
+    "static/media/poppins-devanagari-400-normal.woff": "/SteamTroopsTask/static/media/poppins-devanagari-400-normal.0e11b62db931f85340d4.woff",
+    "static/media/poppins-devanagari-400-italic.woff2": "/SteamTroopsTask/static/media/poppins-devanagari-400-italic.4157d9bb9108d66d8269.woff2",
+    "static/media/poppins-devanagari-400-normal.woff2": "/SteamTroopsTask/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/fa-regular-400.woff2": "/SteamTroopsTask/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/Logo.png": "/SteamTroopsTask/static/media/Logo.d2232b2fe1e7eb3e0541.png",
+    "static/media/poppins-latin-400-italic.woff": "/SteamTroopsTask/static/media/poppins-latin-400-italic.08cba85173043cb4dba8.woff",
+    "static/media/poppins-latin-400-normal.woff": "/SteamTroopsTask/static/media/poppins-latin-400-normal.cda9c93f49237f11c766.woff",
+    "static/media/fa-v4compatibility.ttf": "/SteamTroopsTask/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/poppins-latin-400-italic.woff2": "/SteamTroopsTask/static/media/poppins-latin-400-italic.ed357fa1fa06a3e00d46.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/SteamTroopsTask/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-italic.woff": "/SteamTroopsTask/static/media/poppins-latin-ext-400-italic.4e16b7fdbb99ff8cdc89.woff",
+    "static/media/poppins-latin-ext-400-normal.woff": "/SteamTroopsTask/static/media/poppins-latin-ext-400-normal.8cc52669c8e8a6735699.woff",
+    "static/media/poppins-latin-ext-400-italic.woff2": "/SteamTroopsTask/static/media/poppins-latin-ext-400-italic.e1a411cc63cfee23efaa.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/SteamTroopsTask/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
+    "static/media/fa-v4compatibility.woff2": "/SteamTroopsTask/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/SteamTroopsTask/index.html",
+    "main.952b87d4.css.map": "/SteamTroopsTask/static/css/main.952b87d4.css.map",
+    "main.6c8bdef0.js.map": "/SteamTroopsTask/static/js/main.6c8bdef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.952b87d4.css",
+    "static/js/main.6c8bdef0.js"
+  ]
+}
