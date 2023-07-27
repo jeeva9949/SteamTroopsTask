@@ -1,6 +1,6 @@
 @media screen and (max-width: 600px) {
   .banner_main {
-    background-image: url("./../../../public/Images/banner2.png");
+    background-image: url("../../Images/banner2.png");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -38,7 +38,7 @@
 }
 @media screen and (min-width: 601px) {
   .banner_main {
-    background-image: url("./../../../public/Images/banner2.png");
+    background-image: url("../../Images/banner2.png");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;

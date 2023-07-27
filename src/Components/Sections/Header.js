@@ -1,13 +1,15 @@
 import React from "react";
 import "../Sectionscss/Header.css";
 
+import logo from "../../Images/Logo.png";
+
 const Header = () => {
   return (
     <>
       <nav className="navbar navbar-expand-lg ">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            <img className="Logo_img" src="/images/Logo.png" alt="Logo" />
+            <img className="Logo_img" src={logo} alt="Logo" />
           </a>
           <button
             className="navbar-toggler"

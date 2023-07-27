@@ -1,5 +1,6 @@
 import React from "react";
 import "../Sectionscss/intro.css";
+import intro from "../../Images/intro_img.png";
 
 const IntroSection = () => {
   return (
@@ -8,11 +9,7 @@ const IntroSection = () => {
         <h2 className="intro_section_head">Food Lab Food Safety Services</h2>
         <div className="row">
           <div className="col-lg-6 col-sm-12 intro_img">
-            <img
-              src="/images/intro_img.png"
-              alt="intro"
-              className="intro_image_size"
-            />
+            <img src={intro} alt="intro" className="intro_image_size" />
           </div>
           <div className="col-lg-6 col-sm-12 intro_description">
             <h5 className="intro_description_h5">

@@ -1,6 +1,6 @@
 import React from "react";
 import "../Sectionscss/Footercss.css";
-
+import logo from "../../Images/Logo.png";
 import { MDBFooter, MDBContainer, MDBRow, MDBCol } from "mdb-react-ui-kit";
 
 const Footer = () => {
@@ -14,7 +14,7 @@ const Footer = () => {
                 <MDBCol md="3" lg="6" className="d-flex  flex-column">
                   <img
                     className="Logo_img"
-                    src="/images/Logo.png"
+                    src={logo}
                     alt="Logo"
                     style={{ borderRadius: "10%", marginBottom: "10px" }}
                   />
@@ -46,7 +46,6 @@ const Footer = () => {
                     style={{
                       fontWeight: "900",
                       color: "#000000",
-                     
                     }}
                   >
                     Useful Link
